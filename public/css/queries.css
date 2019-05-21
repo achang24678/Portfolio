@@ -61,6 +61,12 @@
 }
 
 @media only screen and (max-width: 800px) {
+    header {
+        background-attachment: scroll;
+    }
+    .footer-contact {
+        background-attachment: scroll;
+    }
     section { padding: 30px 0;}
     .sum-container {
         display: -webkit-box;
