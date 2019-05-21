@@ -31,6 +31,7 @@
     }
 }
 @media only screen and (max-width: 980px) {
+    
     .main-nav { display: none; }
     
     .mobile-nav-icon { 

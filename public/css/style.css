@@ -157,8 +157,8 @@ section {
 /*----------Header----------*/
 
 header {
-    background: -webkit-linear-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url(/img/header1.jpg);
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/img/header1.jpg);
+    background: -webkit-linear-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url(/img/header-resize.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/img/header-resize.jpg);
     background-size: cover;
     background-position: bottom;
     /* 100% of the view port, so img will show completely */
@@ -509,8 +509,8 @@ header {
     padding: 70px;
     text-align: center;
     color: #f4f4f4;
-    background: -webkit-linear-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url(/img/header1.jpg);
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/img/header1.jpg);
+    background: -webkit-linear-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.6)), to(rgba(0, 0, 0, 0.6))), url(/img/header-resize.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/img/header-resize.jpg);
     background-size: cover;
     background-position: bottom;
     /* 100% of the view port, so img will show completely */
